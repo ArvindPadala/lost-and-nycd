@@ -1,0 +1,57 @@
+{
+  "d3e88593": {
+    "type": "backpack",
+    "box": [
+      947,
+      383,
+      1133,
+      652
+    ],
+    "last_seen": 32,
+    "frames_present": 33
+  },
+  "2e212a35": {
+    "type": "wallet",
+    "box": [
+      952,
+      383,
+      1139,
+      652
+    ],
+    "last_seen": 32,
+    "frames_present": 33
+  },
+  "e6549e35": {
+    "type": "bottle",
+    "box": [
+      1196,
+      164,
+      1454,
+      709
+    ],
+    "last_seen": 32,
+    "frames_present": 33
+  },
+  "7030a6ad": {
+    "type": "phone",
+    "box": [
+      1633,
+      525,
+      1663,
+      552
+    ],
+    "last_seen": 3,
+    "frames_present": 1
+  },
+  "2dc0bd6a": {
+    "type": "phone",
+    "box": [
+      1637,
+      483,
+      1670,
+      510
+    ],
+    "last_seen": 23,
+    "frames_present": 1
+  }
+}
